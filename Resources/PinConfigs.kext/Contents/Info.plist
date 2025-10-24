@@ -30,17 +30,31 @@
 			<array>
 				<dict>
 					<key>AFGLowPowerState</key>
-					<data>AwAAAA==</data>
+					<data>
+					AwAAAA==
+					</data>
 					<key>CodecID</key>
 					<integer>283904146</integer>
 					<key>ConfigData</key>
-					<data>AZccEAGXHREBlx6jAZcfmQGHHCABhx0QAYcegQGHHwIBtxwyAbcdEQG3HhMBtx+ZAbcMAgFnHDEBZx0RAWceEwFnH5kBRxxAAUcdEAFHHiEBRx8CAUcMAgEXHPABFx0AARceAAEXH0ABJxzwAScdAAEnHgABJx9AAVcc8AFXHQABVx4AAVcfQAF3HPABdx0AAXceAAF3H0ABpxzwAacdAAGnHgABpx9AAccc8AHHHQABxx4AAccfQAHXHPAB1x0AAdceAAHXH0AB5xzwAecdAAHnHgAB5x9AAfcc8AH3HQAB9x4AAfcfQA==</data>
+					<data>
+					AZccEAGXHREBlx6jAZcfmQGHHCABhx0QAYce
+					gQGHHwIBtxwyAbcdEQG3HhMBtx+ZAbcMAgFn
+					HEEBZx0RAWceEwFnH5kBRxxQAUcdEAFHHiEB
+					Rx8CAUcMAgEXHPABFx0AARceAAEXH0ABJxzw
+					AScdAAEnHgABJx9AAVcc8AFXHQABVx4AAVcf
+					QAF3HPABdx0AAXceAAF3H0ABpxzwAacdAAGn
+					HgABpx9AAccc8AHHHQABxx4AAccfQAHXHPAB
+					1x0AAdceAAHXH0AB5xzwAecdAAHnHgAB5x9A
+					Afcc8AH3HQAB9x4AAfcfQA==
+					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>1</integer>
 					<key>WakeConfigData</key>
-					<data>AbcMAgFHDAI=</data>
+					<data>
+					AbcMAgFHDAI=
+					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
