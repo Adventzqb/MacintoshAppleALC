@@ -1237,9 +1237,12 @@
 			<array>
 				<string>IntSpeaker</string>
 				<string>Headphone</string>
+				<string>SPDIFOut</string>
 			</array>
 			<key>PathMapID</key>
 			<integer>1</integer>
+			<key>SPDIFOut</key>
+			<dict/>
 		</dict>
 	</array>
 </dict>
