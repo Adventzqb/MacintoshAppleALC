@@ -21,7 +21,7 @@
 			<key>IntSpeaker</key>
 			<dict>
 				<key>MaximumBootBeepValue</key>
-				<integer>64</integer>
+				<integer>48</integer>
 				<key>MuteGPIO</key>
 				<integer>0</integer>
 				<key>SignalProcessing</key>
