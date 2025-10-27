@@ -224,13 +224,13 @@
 											<key>Bind</key>
 											<integer>1</integer>
 											<key>Channel</key>
-											<integer>3</integer>
+											<integer>5</integer>
 										</dict>
 										<dict>
 											<key>Bind</key>
 											<integer>2</integer>
 											<key>Channel</key>
-											<integer>4</integer>
+											<integer>6</integer>
 										</dict>
 									</array>
 									<key>MuteInputAmp</key>
